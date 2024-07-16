@@ -21,6 +21,7 @@ const App = () => {
         gameMode={gameMode}
         gameData={{
           username: "Computer",
+          
           // symbol: Math.random() > 0.5 ? "X" : "O",
         }}
       />
