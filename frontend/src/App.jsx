@@ -23,6 +23,7 @@ const App = () => {
           username: "Computer",
           
           // symbol: Math.random() > 0.5 ? "X" : "O",
+
         }}
       />
     ) : (
